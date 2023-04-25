@@ -45,6 +45,7 @@ desired_cap_4= {
     "local" : "true",
 }
 
+
 driver = webdriver.Remote(
 command_executor='https://ankurchauhan_D2EYax:uof4xMvWDZMrLsExAzfc@hub.browserstack.com/wd/hub',
 desired_capabilities=desired_cap)
@@ -61,8 +62,36 @@ driver_4 = webdriver.Remote(
 command_executor='https://ankurchauhan_D2EYax:uof4xMvWDZMrLsExAzfc@hub.browserstack.com/wd/hub',
 desired_capabilities=desired_cap_4)
 
+
 # To run test locally
-#driver = webdriver.Chrome('./chromedriver') 
+
+driver_5 = webdriver.Chrome('./chromedriver') 
+driver_5.get("https://www.browserstack.com")
+print (driver_5.title)
+elem = driver_5.find_element("id","signupModalButton")
+elem.click()
+print (driver_5.title)
+assert "https://www.browserstack.com/users/sign_up" == driver_5.current_url
+driver_5.quit()
+
+driver_6 = webdriver.Firefox() 
+driver_6.get("https://www.browserstack.com")
+print (driver_6.title)
+elem = driver_6.find_element("id","signupModalButton")
+elem.click()
+print (driver_6.title)
+assert "https://www.browserstack.com/users/sign_up" == driver_6.current_url, "Incorrect URL"
+driver_6.quit()
+
+driver_7 = webdriver.Safari() 
+driver_7.get("https://www.browserstack.com")
+print (driver_7.title)
+elem = driver_7.find_element("id","signupModalButton")
+elem.click()
+print (driver_7.title)
+assert "https://www.browserstack.com/users/sign_up" == driver_7.current_url, "Incorrect URL"
+driver_7.quit()
+
 
 
 #To test run on BrowserStack in different enviroment (Browsers, OS)
