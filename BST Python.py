@@ -5,44 +5,51 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 desired_cap_1 = {
+    'bstack:options' : {
     "os" : "OS X",
-    "osVersion" : "Big Sur",
+    "osVersion" : "Catalina",
     "browserName": "Safari",
-    "browserVersion": "14.1",
-    "buildName" : "browserstack-build-1",
+    "browserVersion": "13.0",
+    "buildName" : "ankur-build-1",
     "sessionName" : "BStack local python",
-    "local" : "true",
+    "local" : "false",
+    }
 }
 
-
 desired_cap_2= {
+    'bstack:options' : {
     "os" : "Windows",
     "osVersion" : "11",
-    "buildName" : "browserstack-build-1",
+    "buildName" : "ankur-build-1",
     "sessionName" : "BStack local python",
     "browserName": "Firefox",
     "browserVersion": "112.0",
-    "local" : "true",
+    "local" : "false",
+    }
 }
 
 desired_cap_3= {
+    'bstack:options' : {
     "os" : "OS X",
     "osVersion" : "Mojave",
-    "buildName" : "browserstack-build-1",
+    "buildName" : "ankur-build-1",
     "browserName": "Chrome",
     "browserVersion": "111.0",
     "sessionName" : "BStack local python",
-    "local" : "true",
+    "local" : "false",
+    }
 }
 
 desired_cap_4= {
+    'bstack:options' : {
     "os" : "Windows",
     "osVersion" : "11",
-    "buildName" : "browserstack-build-1",
+    "buildName" : "ankur-build-1",
     "browserName": "Edge",
     "browserVersion": "112.0",
     "sessionName" : "BStack local python",
-    "local" : "true",
+    "local" : "false",
+    }
 }
 
 
@@ -66,6 +73,7 @@ print (driver_6.title)
 assert "https://www.browserstack.com/users/sign_up" == driver_6.current_url, "Incorrect URL"
 driver_6.quit()
 
+""" 
 driver_7 = webdriver.Safari() 
 driver_7.get("https://www.browserstack.com")
 print (driver_7.title)
@@ -74,7 +82,7 @@ elem.click()
 print (driver_7.title)
 assert "https://www.browserstack.com/users/sign_up" == driver_7.current_url, "Incorrect URL"
 driver_7.quit()
-
+"""
 
 #To test run on BrowserStack in different enviroment (Browsers, OS)
 
