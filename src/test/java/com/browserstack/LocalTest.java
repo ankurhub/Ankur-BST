@@ -4,8 +4,8 @@ import static org.testng.AssertJUnit.assertEquals;
 
 import java.net.MalformedURLException;
 import java.net.URL;
-
 import org.openqa.selenium.By;
+import org.openqa.selenium.MutableCapabilities;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -15,6 +15,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.safari.SafariDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+
 
 public class LocalTest {
 
@@ -66,34 +67,29 @@ public class LocalTest {
 			SafariDriver.quit();
 		
 	}
+	
+	
 
-    /*
+    /* This test will run only when Selenium server is running locally
     @Test
 	public void SeleniumServerTest() {
-    System.setProperty("webdriver.chrome.driver","/users/ankur/java-browserstack/chromedriver_mac_arm64/chromedriver");
-    ChromeOptions options = new ChromeOptions();
-    options.addArguments("--remote-allow-origins=*");
-    //options.setCapability("browserVersion", "112");
-    //options.setCapability("platformName", "OS X");
-    // Showing a test name instead of the session id in the Grid UI
-    //options.setCapability("se:name", "My simple test"); 
-    // Other type of metadata can be seen in the Grid UI by clicking on the 
-    // session info or via GraphQL
-    //options.setCapability("se:sampleMetadata", "Sample metadata value"); 
-    
-    RemoteWebDriver Chromedriver = null;
-	try {
-		Chromedriver = new RemoteWebDriver(new URL("http://localhost:4444"), options);
-	} catch (MalformedURLException e) {
-		// TODO Auto-generated catch block
-		e.printStackTrace();
-	}
+    	
+    	MutableCapabilities capabilities = new MutableCapabilities();
+		capabilities.setCapability("browserName", "firefox");
+		capabilities.setCapability("platformName", "MAC");
+	
 
-	Chromedriver.get("http://www.google.com");
-	Chromedriver.quit();
+		RemoteWebDriver Firefoxdriver = null;
+		try {
+			Firefoxdriver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabilities);
+		} catch (MalformedURLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	Firefoxdriver.get("http://www.google.com");
+	Firefoxdriver.quit();
     }
     
     */
-    
-    
 }
