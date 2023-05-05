@@ -1,0 +1,395 @@
+13:12:52.161 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:12:52.192 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:12:54.544 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:13:14.276 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:13:15.935 [setUp@1] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+13:13:46.698 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/snp4cydkgeclfxuyivaeiqfwnkcmbnjb1xl83kbr to view build report, insights, and many more debugging information all at one place!
+
+13:13:48.033 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/09333d91602bc3f59a0e5232cb0a34442f3ca28b
+13:13:48.033 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:13:51.986 [Thread-1] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+13:20:35.015 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:20:35.043 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:20:36.534 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:20:45.806 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:20:47.892 [setUp@2] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+13:21:22.443 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gm90ucmivq6rhwicfae6lsju2mszd1fayitunuad to view build report, insights, and many more debugging information all at one place!
+
+13:21:23.790 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a989f19f7d688e30a38146bfa00a68cc36e43ce5
+13:21:23.791 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:21:26.306 [Thread-1] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+10:55:50.874 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:55:50.883 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:55:56.216 [setUp@0] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+10:56:23.083 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/dgawqulh9rm9wdhgxwxhwjgp6olgm9n7hfvs5ie0 to view build report, insights, and many more debugging information all at one place!
+
+10:56:24.794 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/4ee8e443513713fb8ef632f8fa14ec25619a7e44
+10:56:24.794 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:05:13.004 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:05:13.015 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:05:16.866 [setUp@0] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+11:05:51.215 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/2calsvbvjfmry1escjgd379jjkaulk0mhytam9dl to view build report, insights, and many more debugging information all at one place!
+
+11:05:52.483 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a4a44c885ae94b957b794ae66320d557493792a0
+11:05:52.484 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:09:40.214 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:09:40.223 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:09:44.543 [setUp@2] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+11:10:26.658 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/po8jadlnud8qyw7tvxllakjdnude3j3paf8smr9i to view build report, insights, and many more debugging information all at one place!
+
+11:10:26.725 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:10:26.725 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to access a private domain: bs-local.com . Set the following config in your browserstack.yml file: 
+----------- 
+ browserstackLocal: true 
+-----------
+11:10:29.552 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/d5c3d8b21fade48eb60ac71ce52952413d0a7f72
+11:10:29.553 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:19:20.595 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:19:20.604 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:19:30.085 [setUp@3] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+11:21:37.834 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/hugamwsblwcfk9hj9hggruzfnrtlhjgte2w5dtd0 to view build report, insights, and many more debugging information all at one place!
+
+11:21:37.900 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:21:37.900 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to access a private domain: bs-local.com . Set the following config in your browserstack.yml file: 
+----------- 
+ browserstackLocal: true 
+-----------
+11:21:42.048 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/ba9546c1bf2ed59253e652a8ea9fc333b3d0449c
+11:21:42.049 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:31:57.149 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:31:57.158 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:32:03.152 [setUp@3] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+11:32:45.872 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/vekfkua4wfifbznumwvpsg1svn1h7epaqefiavkl to view build report, insights, and many more debugging information all at one place!
+
+11:32:47.371 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/0de6fc589c1253d70a91418d97d1f70e92675ba0
+11:32:47.371 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:33:18.126 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:33:18.134 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:33:23.330 [setUp@2] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+11:33:54.912 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/hpgkurvxnupdoqnpd4ap37ynnubyryafmp6ryeer to view build report, insights, and many more debugging information all at one place!
+
+11:33:57.349 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/7026313813b92b01f45eb1d83529548fa1f8010c
+11:33:57.350 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:51:45.300 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:51:45.307 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:51:49.654 [setUp@1] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+11:52:52.749 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/bxciuf7obgakyub0w0kwxaoa0shalleffkjvdupy to view build report, insights, and many more debugging information all at one place!
+
+11:52:52.827 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:52:52.827 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to access a private domain: localhost . Set the following config in your browserstack.yml file: 
+----------- 
+ browserstackLocal: true 
+-----------
+11:52:55.192 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/0bc2ebaf30be0b3f75beb0f509acea829d850b46
+11:52:55.192 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:08:37.650 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:08:37.655 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:08:43.137 [setUp@1] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+12:09:17.449 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/nqzjsp536tc9wjetoewbfbdnxvaqzbqprtccn5kp to view build report, insights, and many more debugging information all at one place!
+
+12:09:20.166 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/397122e8756685c94ad9be6c3ca61f938f8cc005
+12:09:20.167 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:20:47.445 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:20:47.471 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:20:57.242 [setUp@3] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+16:21:33.311 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/9laf8bm2xedlztmwsegiwrsphmtxvkbl8fste3kn to view build report, insights, and many more debugging information all at one place!
+
+16:21:34.911 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/8e8f4e07746619585ca2837023660b9363573f7d
+16:21:34.913 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:00:13.926 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:00:13.935 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:00:24.730 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:00:27.021 [setUp@1] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+17:01:55.911 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/imagzao3viysq1r8wlqebdb1j3hyxbwkhpollhmw to view build report, insights, and many more debugging information all at one place!
+
+17:01:56.003 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+17:01:56.004 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to access a private domain: localhost . Set the following config in your browserstack.yml file: 
+----------- 
+ browserstackLocal: true 
+-----------
+17:01:57.572 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/8a8db4e93a784f43f90ad6249e7bf051561af74b
+17:01:57.573 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:10.050 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:03:10.077 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:03:11.561 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:03:22.587 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+17:03:23.692 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:03:25.285 [setUp@0] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+17:04:25.964 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/hurlhztprrv4kg2do4x2nl8gue3uvwqp0gxuoxz5 to view build report, insights, and many more debugging information all at one place!
+
+17:04:27.244 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/0ed644d56f80cccf836daa22a0d22542dbd795d0
+17:04:27.245 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:31.054 [Thread-1] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+17:14:11.287 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:14:11.313 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:14:13.845 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:14:25.971 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+17:14:27.073 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:14:29.175 [setUp@3] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+17:15:01.855 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/nflt5dk8t4997dqsrigo3stlwvvv4nygrbnrjm19 to view build report, insights, and many more debugging information all at one place!
+
+17:15:03.102 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/56663ff23cc10a9ffe229a2eb2724a9906dc8988
+17:15:03.102 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:06.689 [Thread-1] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+12:22:25.918 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:22:25.945 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:22:28.750 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:22:38.573 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:22:40.313 [main] INFO  c.b.config.BrowserStackConfig - WARN
+12:22:41.887 [setUp@1] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+12:23:25.973 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/tdgpjvhevk78su5n9rpvt4cwtw2awvlvjijq7g6w to view build report, insights, and many more debugging information all at one place!
+
+12:23:27.563 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a7e1366462a3bcaa0b9ed82880abbbc75310f3a0
+12:23:27.563 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:23:31.770 [Thread-1] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+13:01:40.992 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:01:44.524 [main] INFO  c.b.config.BrowserStackConfig - WARN
+13:01:47.513 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/aqsj9kb6v5aformpfjoy8lrmfsk0xsk94dpnzeg4 to view build report, insights, and many more debugging information all at one place!
+
+13:40:10.376 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:40:10.404 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:40:12.278 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:40:23.217 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:40:24.554 [main] INFO  c.b.config.BrowserStackConfig - WARN
+13:40:26.365 [setUp@2] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+13:40:39.476 [tearDown@4] ERROR c.browserstack.utils.UtilityMethods - Mark Session Status failed - org.openqa.selenium.WebDriverException: An unknown error has occurred
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'AnkurChauhan-FVFGWNEDQ05D', ip: '2405:201:4004:cc77:cdf0:3646:9b7:b30f%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.3.1', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [193f365875266f9496e6d0d3c3532920cffb7c63, executeScript {script=browserstack_executor: {"action":"setSessionStatus","arguments":{"reason":"","status":"passed"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.77, chrome: {chromedriverVersion: 110.0.5481.30 (aedb656755c4..., userDataDir: /var/folders/yj/h3bj394n2tn...}, goog:chromeOptions: {debuggerAddress: localhost:59388}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 193f365875266f9496e6d0d3c35...}
+Session ID: 193f365875266f9496e6d0d3c3532920cffb7c63
+13:40:51.491 [tearDown@1] ERROR c.browserstack.utils.UtilityMethods - Mark Session Status failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'AnkurChauhan-FVFGWNEDQ05D', ip: '2405:201:4004:cc77:cdf0:3646:9b7:b30f%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.3.1', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionStatus","arguments":{"reason":"","status":"passed"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 111.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230309232128, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 9624, moz:profile: C:\Windows\proxy\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 47e3cba31dca6174522909b0a66...}
+13:40:51.972 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ahgfghjqtiedf0n8hg7h1ohvzwkzpeu80zhnmhqg to view build report, insights, and many more debugging information all at one place!
+
+13:40:53.256 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/90833df200ea39decc32806db9bfff6ff5fa72e5
+13:40:53.257 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:40:57.241 [Thread-1] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+13:43:03.744 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:43:03.773 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:43:05.284 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:43:16.087 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:43:17.100 [main] INFO  c.b.config.BrowserStackConfig - WARN
+13:43:19.664 [setUp@3] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+13:43:33.735 [tearDown@3] ERROR c.browserstack.utils.UtilityMethods - Mark Session Status failed - org.openqa.selenium.WebDriverException: An unknown error has occurred
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'AnkurChauhan-FVFGWNEDQ05D', ip: '2405:201:4004:cc77:cdf0:3646:9b7:b30f%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.3.1', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1a8dcb40b5fa9aa0d39506e03c83735965b2560e, executeScript {script=browserstack_executor: {"action":"setSessionStatus","arguments":{"reason":"An unknown error has occurred Build info: version: '4.1.4', revision: '535d840ee2' System info: host: 'AnkurChauhan-FVFGWNEDQ05D', ip: '2405:201:4004:cc77:cdf0:3646:9b7:b30f%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.3.1', java.version: '17.0.7' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [1a8dcb40b5fa9aa0d39506e03c83735965b2560e, getTitle {}] Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 15.6.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 21G83, safari:platformVersion: 12.5.1, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 1a8dcb40b5fa9aa0d39506e03c8..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 1a8dcb40b5fa9aa0d39506e03c83735965b2560e","status":"failed"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 15.6.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 21G83, safari:platformVersion: 12.5.1, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 1a8dcb40b5fa9aa0d39506e03c8..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+Session ID: 1a8dcb40b5fa9aa0d39506e03c83735965b2560e
+13:43:37.662 [tearDown@2] ERROR c.browserstack.utils.UtilityMethods - Mark Session Status failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'AnkurChauhan-FVFGWNEDQ05D', ip: '2405:201:4004:cc77:cdf0:3646:9b7:b30f%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.3.1', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionStatus","arguments":{"reason":"An unknown error has occurred Build info: version: '4.1.4', revision: '535d840ee2' System info: host: 'AnkurChauhan-FVFGWNEDQ05D', ip: '2405:201:4004:cc77:cdf0:3646:9b7:b30f%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.3.1', java.version: '17.0.7' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [77aeaa69969a8f32e514786e51fad27badea1ef6, get {url=https:\/\/www.browserstack.com}] Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 111.0.1661.41, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:3793}, msedge: {msedgedriverVersion: 111.0.1661.41 (57be51b50d1b..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 77aeaa69969a8f32e514786e51f...}","status":"failed"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 111.0.1661.41, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:3793}, msedge: {msedgedriverVersion: 111.0.1661.41 (57be51b50d1b..., userDataDir: C:\Windows\proxy\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 77aeaa69969a8f32e514786e51f...}
+13:43:39.263 [tearDown@4] ERROR c.browserstack.utils.UtilityMethods - Mark Session Status failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'AnkurChauhan-FVFGWNEDQ05D', ip: '2405:201:4004:cc77:cdf0:3646:9b7:b30f%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.3.1', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionStatus","arguments":{"reason":"An unknown error has occurred Build info: version: '4.1.4', revision: '535d840ee2' System info: host: 'AnkurChauhan-FVFGWNEDQ05D', ip: '2405:201:4004:cc77:cdf0:3646:9b7:b30f%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.3.1', java.version: '17.0.7' Driver info: org.openqa.selenium.chrome.ChromeDriver Command: [23f340583646771d1c3608f1eb5bbbd641fd2a0e, getTitle {}] Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.77, chrome: {chromedriverVersion: 110.0.5481.30 (aedb656755c4..., userDataDir: \/var\/folders\/yj\/h3bj394n2tn...}, goog:chromeOptions: {debuggerAddress: localhost:59208}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 23f340583646771d1c3608f1eb5...} Session ID: 23f340583646771d1c3608f1eb5bbbd641fd2a0e","status":"failed"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.77, chrome: {chromedriverVersion: 110.0.5481.30 (aedb656755c4..., userDataDir: /var/folders/yj/h3bj394n2tn...}, goog:chromeOptions: {debuggerAddress: localhost:59208}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 23f340583646771d1c3608f1eb5...}
+13:44:05.113 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/majkyyt24coc5ke1lgxdmlvtt1okkc1gdz5kbycv to view build report, insights, and many more debugging information all at one place!
+
+13:44:06.442 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/826ea181853a27c88dc51442cff049e40c8f1643
+13:44:06.442 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:44:10.766 [Thread-1] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+13:45:55.672 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:45:55.699 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:45:58.676 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:46:10.410 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:46:11.390 [main] INFO  c.b.config.BrowserStackConfig - WARN
+13:46:13.002 [setUp@4] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+13:46:37.159 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/cth7zhyx7muxnvensasf6avpxjwi1ilnhsoxcz1o to view build report, insights, and many more debugging information all at one place!
+
+13:46:38.534 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/aa94d76ddc6050fe493b30864a827f0d91ce20c3
+13:46:38.534 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:46:42.385 [Thread-1] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+13:48:22.175 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:48:22.203 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:48:23.830 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:48:35.499 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:48:36.481 [main] INFO  c.b.config.BrowserStackConfig - WARN
+13:48:38.688 [setUp@0] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+13:49:11.347 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ksluzdz2mf3ai03riv4n77zlezap8yw19stndz7w to view build report, insights, and many more debugging information all at one place!
+
+13:49:12.613 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/8b803605b27231876452d6a101c84d28fbc92e45
+13:49:12.613 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:49:16.520 [Thread-1] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+14:05:26.229 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:05:30.308 [main] INFO  c.b.config.BrowserStackConfig - WARN
+14:05:32.885 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/xqff6wbfkwkml9ev4e3doykyahxfz8lhs01i4szs to view build report, insights, and many more debugging information all at one place!
+
+14:15:54.735 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:15:59.454 [main] INFO  c.b.config.BrowserStackConfig - WARN
+14:16:07.285 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/19ciwsknl7vhuyokgcshkt2jdbqe1hgjqglfuunn to view build report, insights, and many more debugging information all at one place!
+
+14:16:52.721 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:16:56.060 [main] INFO  c.b.config.BrowserStackConfig - WARN
+14:17:06.069 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/k1qoqkgj6nqcqqlpbisxcebdhfhryowl1ls1zyf4 to view build report, insights, and many more debugging information all at one place!
+
+16:23:10.613 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:23:10.640 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:23:12.275 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:23:23.031 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:23:24.370 [main] INFO  c.b.config.BrowserStackConfig - WARN
+16:23:26.191 [setUp@3] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+16:24:12.277 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/attex67hgezxpdhsen1znkn3jo4sbdbimgxl8dgs to view build report, insights, and many more debugging information all at one place!
+
+16:24:13.554 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/0d882b26457384ae94c6ec5c42efa85f1c0dee79
+16:24:13.554 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:24:17.254 [Thread-1] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+16:31:53.950 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:31:56.634 [main] INFO  c.b.config.BrowserStackConfig - WARN
+16:32:01.956 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/chjs1msuaiz9sfvcqloxvivyvvltmn8jdaqvjcnv to view build report, insights, and many more debugging information all at one place!
+
+16:41:05.934 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:41:09.621 [main] INFO  c.b.config.BrowserStackConfig - WARN
+16:41:14.554 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/cauqqzmnkqdjzyfrln6wjjdfmgwbse8twr9wfcxf to view build report, insights, and many more debugging information all at one place!
+
+16:43:50.727 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:43:54.045 [main] INFO  c.b.config.BrowserStackConfig - WARN
+16:43:58.405 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/oootvm44arkvqxdkiiuzmk5trkrvhpdxvgmvz0wc to view build report, insights, and many more debugging information all at one place!
+
+16:46:02.047 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:46:04.853 [main] INFO  c.b.config.BrowserStackConfig - WARN
+16:46:07.196 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/sjqvgxlbpwypy0oimbiob72lvsiqafwl0idevlap to view build report, insights, and many more debugging information all at one place!
+
+16:49:40.490 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:49:43.405 [main] INFO  c.b.config.BrowserStackConfig - WARN
+16:49:46.459 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/vyaasonf0oqwbpobdy6fn6teu72yff40nrjqo1w6 to view build report, insights, and many more debugging information all at one place!
+
+16:55:07.541 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:55:09.990 [main] INFO  c.b.config.BrowserStackConfig - WARN
+16:55:24.421 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/jlgx6fz1j5aveuafgmxu7qekc58gqqahehpp0uhx to view build report, insights, and many more debugging information all at one place!
+
+16:55:55.590 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:55:59.099 [main] INFO  c.b.config.BrowserStackConfig - WARN
+16:56:01.480 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/9shhfdunj4q6qotdhucsd1wg6bj0tetwlv1gnosg to view build report, insights, and many more debugging information all at one place!
+
+16:57:10.790 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:57:13.335 [main] INFO  c.b.config.BrowserStackConfig - WARN
+16:57:16.019 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ogxyfnwyr2tpod1md6ja9ankrkjowiwb00591hep to view build report, insights, and many more debugging information all at one place!
+
+16:59:30.128 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:59:34.705 [main] INFO  c.b.config.BrowserStackConfig - WARN
+16:59:40.502 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gxoaijiht76hrbfh0yikucvvpfmn4ypuiksktszn to view build report, insights, and many more debugging information all at one place!
+
+17:01:19.914 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:01:22.913 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:01:26.783 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/kzhvylb7yu5i4dbsvrkfickpjuxvqhby0dtj7otx to view build report, insights, and many more debugging information all at one place!
+
+17:04:22.517 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:04:25.174 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:04:29.677 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/bhbd4ll1oeire6elbpv11zgbo4pqjtyxuplqnkfz to view build report, insights, and many more debugging information all at one place!
+
+17:08:06.500 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:08:09.097 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:08:13.368 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/d5xk13gmzczgqyp6jw7h2iisbajvudzfym54iahd to view build report, insights, and many more debugging information all at one place!
+
+17:10:03.675 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:10:06.090 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:10:10.516 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/nbf3xo5e35m88x6r90lkbfyxo3aw7hopzj3xx2yf to view build report, insights, and many more debugging information all at one place!
+
+17:10:37.184 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:10:39.628 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:10:43.282 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/skjpfphcj1fawxdrm4jeegtb0lm6w5b9wem2b95m to view build report, insights, and many more debugging information all at one place!
+
+17:11:39.768 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:11:42.199 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:11:47.803 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/fkmos96qhhhknnylgbldutvzqbbmyxheqlzhtt4w to view build report, insights, and many more debugging information all at one place!
+
+17:16:36.748 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:16:39.341 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:16:45.536 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/bbt0f8ca3tciqx8pq9pxxsrsumilxvogfdqjjuni to view build report, insights, and many more debugging information all at one place!
+
+17:16:58.078 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:17:00.709 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:17:07.936 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gtbhy7f1qtqudcu29o6jtciszvomftglt2zp43uo to view build report, insights, and many more debugging information all at one place!
+
+17:21:20.457 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:21:23.683 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:21:39.229 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ei8otv921kyjipaomsg8wzpuvr5cj5tmf5ytdyr8 to view build report, insights, and many more debugging information all at one place!
+
+17:22:40.527 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:22:44.540 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:23:03.402 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/5g5qccmmtvzwjcbeb9ndnajj4nbd9dkafxdp9ooy to view build report, insights, and many more debugging information all at one place!
+
+17:25:30.363 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:25:34.577 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:26:07.923 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/htsfsmcd4ub12qyofq6rhxi5opf2c2lc08p75uhx to view build report, insights, and many more debugging information all at one place!
+
+17:28:53.572 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:28:57.431 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:29:08.888 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/pb7qpr3y5gbkrjyaaaesihdxizn44d5ryerj9owk to view build report, insights, and many more debugging information all at one place!
+
+17:29:38.946 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:29:42.471 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:30:03.670 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/uoevsgubtaekxrm8n0peuyxx7tau0tuvdcoaabki to view build report, insights, and many more debugging information all at one place!
+
+17:45:32.119 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:45:35.393 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:48:44.305 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ctydjmalqdthlf1liofyj6dwh6zopfylka3uy9cv to view build report, insights, and many more debugging information all at one place!
+
+17:50:43.137 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:50:45.674 [main] INFO  c.b.config.BrowserStackConfig - WARN
+17:53:53.954 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/k7phhz5jsegpkwc3eeq92va2dv3keixjaad19q1l to view build report, insights, and many more debugging information all at one place!
+
+18:00:58.202 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:01:01.067 [main] INFO  c.b.config.BrowserStackConfig - WARN
+18:02:15.302 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:02:18.652 [main] INFO  c.b.config.BrowserStackConfig - WARN
+18:05:21.998 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/wgujbajjwzilt3kvwyozzlu3mads7sck5oavftcn to view build report, insights, and many more debugging information all at one place!
+
+18:06:24.639 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:06:28.334 [main] INFO  c.b.config.BrowserStackConfig - WARN
+18:09:32.064 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/2imtlxnnafwcrh1m7jzlp1cetahrm1v8ky4bpfyh to view build report, insights, and many more debugging information all at one place!
+
+18:15:45.873 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:15:48.647 [main] INFO  c.b.config.BrowserStackConfig - WARN
+18:17:26.960 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:17:29.701 [main] INFO  c.b.config.BrowserStackConfig - WARN
+18:19:59.109 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/snybl6dymjybhhrhm1bxmysyudkzykaea41iicvb to view build report, insights, and many more debugging information all at one place!
+
+18:22:12.834 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:22:16.418 [main] INFO  c.b.config.BrowserStackConfig - WARN
+18:25:19.996 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/hgj9xp8oeich9hp24xfnmfbv9iwefouwurbrpx8y to view build report, insights, and many more debugging information all at one place!
+
+11:00:00.134 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:00:03.542 [main] INFO  c.b.config.BrowserStackConfig - WARN
+11:03:08.719 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/sqptiuwbhkxvzpoc6qzesx9snkifmcucrkxqfm9e to view build report, insights, and many more debugging information all at one place!
+
+11:06:17.551 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:06:20.467 [main] INFO  c.b.config.BrowserStackConfig - WARN
+11:08:51.558 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:08:54.244 [main] INFO  c.b.config.BrowserStackConfig - WARN
+11:09:15.734 [LocalTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/5qflmoh2svllvtwyx0zxnbowfjkr0cvqatczdcyn to view build report, insights, and many more debugging information all at one place!
+
+11:11:19.733 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:11:19.759 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:11:21.611 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+11:11:32.476 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+11:11:33.624 [main] INFO  c.b.config.BrowserStackConfig - WARN
+11:11:35.924 [setUp@3] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+11:12:12.756 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/dzk9ei91zkbxuae8jafdx2jscxsbhniglze6thll to view build report, insights, and many more debugging information all at one place!
+
+11:12:14.090 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/66ebac4b17e57e6d070ac78ef5d0f296d69e4e11
+11:12:14.090 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:12:17.653 [Thread-1] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+11:12:42.137 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:12:42.162 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:12:43.658 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+11:12:51.892 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+11:12:52.835 [main] INFO  c.b.config.BrowserStackConfig - WARN
+11:12:54.994 [setUp@2] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+11:13:30.132 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/22mzmw8otwocwip6nekepbbctybrh6aqdcwfucba to view build report, insights, and many more debugging information all at one place!
+
+11:13:32.097 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/dc36812a01343e7e087634267ea54e9ae435969d
+11:13:32.098 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:13:34.329 [Thread-1] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.

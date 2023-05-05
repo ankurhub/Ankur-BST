@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-05T11:12:54 IST" name="Cross-Platform" finished-at="2023-05-05T11:13:29 IST" duration-ms="34347">
+    <groups>
+    </groups>
+    <test started-at="2023-05-05T11:12:54 IST" name="BStackDemo-4" finished-at="2023-05-05T11:13:12 IST" duration-ms="17512">
+      <class name="com.browserstack.BStackDemoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.BStackDemoTest@7c3ebc6b]" started-at="2023-05-05T11:12:54 IST" name="setUp" finished-at="2023-05-05T11:13:01 IST" duration-ms="6856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestingOnBrowserStack()[pri:0, instance:com.browserstack.BStackDemoTest@7c3ebc6b]" started-at="2023-05-05T11:13:01 IST" name="TestingOnBrowserStack" finished-at="2023-05-05T11:13:08 IST" duration-ms="6792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestingOnBrowserStack -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.BStackDemoTest@7c3ebc6b]" started-at="2023-05-05T11:13:10 IST" name="tearDown" finished-at="2023-05-05T11:13:12 IST" duration-ms="2291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.BStackDemoTest -->
+    </test> <!-- BStackDemo-4 -->
+    <test started-at="2023-05-05T11:12:54 IST" name="BStackDemo-3" finished-at="2023-05-05T11:13:17 IST" duration-ms="22646">
+      <class name="com.browserstack.BStackDemoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.BStackDemoTest@78830d9a]" started-at="2023-05-05T11:12:54 IST" name="setUp" finished-at="2023-05-05T11:13:03 IST" duration-ms="8842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestingOnBrowserStack()[pri:0, instance:com.browserstack.BStackDemoTest@78830d9a]" started-at="2023-05-05T11:13:03 IST" name="TestingOnBrowserStack" finished-at="2023-05-05T11:13:13 IST" duration-ms="9529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestingOnBrowserStack -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.BStackDemoTest@78830d9a]" started-at="2023-05-05T11:13:14 IST" name="tearDown" finished-at="2023-05-05T11:13:17 IST" duration-ms="2926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.BStackDemoTest -->
+    </test> <!-- BStackDemo-3 -->
+    <test started-at="2023-05-05T11:12:54 IST" name="BStackDemo-0" finished-at="2023-05-05T11:13:19 IST" duration-ms="24605">
+      <class name="com.browserstack.BStackDemoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.BStackDemoTest@3d43fe]" started-at="2023-05-05T11:12:54 IST" name="setUp" finished-at="2023-05-05T11:13:07 IST" duration-ms="12104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestingOnBrowserStack()[pri:0, instance:com.browserstack.BStackDemoTest@3d43fe]" started-at="2023-05-05T11:13:07 IST" name="TestingOnBrowserStack" finished-at="2023-05-05T11:13:14 IST" duration-ms="7597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestingOnBrowserStack -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.BStackDemoTest@3d43fe]" started-at="2023-05-05T11:13:15 IST" name="tearDown" finished-at="2023-05-05T11:13:19 IST" duration-ms="3565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.BStackDemoTest -->
+    </test> <!-- BStackDemo-0 -->
+    <test started-at="2023-05-05T11:12:54 IST" name="BStackDemo-2" finished-at="2023-05-05T11:13:21 IST" duration-ms="26334">
+      <class name="com.browserstack.BStackDemoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.BStackDemoTest@4a0df195]" started-at="2023-05-05T11:12:54 IST" name="setUp" finished-at="2023-05-05T11:13:04 IST" duration-ms="9994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestingOnBrowserStack()[pri:0, instance:com.browserstack.BStackDemoTest@4a0df195]" started-at="2023-05-05T11:13:04 IST" name="TestingOnBrowserStack" finished-at="2023-05-05T11:13:17 IST" duration-ms="12198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestingOnBrowserStack -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.BStackDemoTest@4a0df195]" started-at="2023-05-05T11:13:18 IST" name="tearDown" finished-at="2023-05-05T11:13:21 IST" duration-ms="2779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.BStackDemoTest -->
+    </test> <!-- BStackDemo-2 -->
+    <test started-at="2023-05-05T11:12:54 IST" name="BStackDemo-1" finished-at="2023-05-05T11:13:29 IST" duration-ms="34347">
+      <class name="com.browserstack.BStackDemoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.BStackDemoTest@de88ac6]" started-at="2023-05-05T11:12:54 IST" name="setUp" finished-at="2023-05-05T11:13:10 IST" duration-ms="15972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestingOnBrowserStack()[pri:0, instance:com.browserstack.BStackDemoTest@de88ac6]" started-at="2023-05-05T11:13:10 IST" name="TestingOnBrowserStack" finished-at="2023-05-05T11:13:24 IST" duration-ms="13919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestingOnBrowserStack -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.BStackDemoTest@de88ac6]" started-at="2023-05-05T11:13:26 IST" name="tearDown" finished-at="2023-05-05T11:13:29 IST" duration-ms="2432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.BStackDemoTest -->
+    </test> <!-- BStackDemo-1 -->
+  </suite> <!-- Cross-Platform -->
+</testng-results>
