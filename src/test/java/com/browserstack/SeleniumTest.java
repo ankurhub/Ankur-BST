@@ -13,9 +13,11 @@ public class SeleniumTest {
     @SuppressWarnings("unchecked")
     public void setUp() throws Exception {
     	
+        
         ChromeOptions options = new ChromeOptions();
         options.addArguments("start-maximized");
         driver = new ChromeDriver(options);
+        
     }
 
     @AfterMethod(alwaysRun = true)

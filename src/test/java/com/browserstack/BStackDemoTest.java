@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 public class BStackDemoTest extends SeleniumTest {  
     
     @Test
-    public void TestingOnBrowserStack() throws Exception {
+    public void TestingOnBrowserStack_URL_Check() throws Exception {
         
         driver.get("https://www.browserstack.com");
 		System.out.println(driver.getTitle()); 
@@ -20,5 +20,16 @@ public class BStackDemoTest extends SeleniumTest {
 		elem.click();
 		System.out.println("Current Title is :" + driver.getTitle()); 
 		Assert.assertEquals(driver.getCurrentUrl(),"https://www.browserstack.com/users/sign_up");
+    }
+    
+    @Test
+    public void TestingOnBrowserStack_TitleCheck() throws Exception {
+        
+        driver.get("https://www.browserstack.com");
+		System.out.println(driver.getTitle()); 
+		WebElement elem= driver.findElement(By.id("signupModalButton"));
+		elem.click();
+		System.out.println("Current Title is :" + driver.getTitle()); 
+		Assert.assertEquals(driver.getTitle(),"Get Started For Free & Access 3000+ Mobile Devices & Browsers | BrowserStack");
     }
 }
